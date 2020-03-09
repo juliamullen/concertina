@@ -3,6 +3,6 @@ A little set of classes designed to help transcribe and play music for the conce
 Run `python3 test.py` to output a popular ragtimey piece with annotated chords.
 
 Todo:
-Autodetect chords
-find a less scroll-intensive output format
-output with sheet music as a png possibly?
+- Autodetect chords
+- find a less scroll-intensive output format
+- output with sheet music as a png possibly?
